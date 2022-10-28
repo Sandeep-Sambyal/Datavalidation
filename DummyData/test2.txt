@@ -1,0 +1,7 @@
+Line 1 match
+line 2 match
+Line 3 Mismatch #1
+Line 4 Match
+Line 5 Mismatch #2
+Line 6 Mismatch #3
+Line 7 Match
